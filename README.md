@@ -18,6 +18,9 @@
 [<img allign="left" alt="Excel" width ="40px" src="svg-symbol/icons8-microsoft-excel.svg" />][Excel]
 
 <br />
+🚨 Blog posted in Hashnode:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [Hashnode]: "https://ammarazman.hashnode.dev/"
 [Linkedin]: https://www.linkedin.com/in/ammar-azman/
