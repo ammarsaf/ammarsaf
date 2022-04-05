@@ -12,14 +12,14 @@
 [Hashnode]: https://ammarazman.hashnode.dev/
 [Linkedin]: https://www.linkedin.com/in/ammar-azman/
 
-## Language and Tools:
+## Languages and Tools:
 [<img allign="left" alt="Python" width ="40px" src="svg-symbol/icons8-python.svg" />][Python]
 [<img allign="left" alt="MySQL" width ="40px" src="svg-symbol/icons8-mysql-logo (1).svg" />][MySQL]
 [<img allign="left" alt="Tableau" width ="40px" src="svg-symbol/icons8-tableau-software.svg" />][Tableau]
 [<img allign="left" alt="Git" width ="40px" src="svg-symbol/icons8-git.svg" />][Git]
 [<img allign="left" alt="Excel" width ="40px" src="svg-symbol/icons8-microsoft-excel.svg" />][Excel]
 
-### 🚨 Blog posted in Hashnode:
+### 🚨 Blog posted on Hashnode:
 
 <!-- BLOG-POST-LIST:START -->
 - [Komen dan Docstring dalam Python](https://ammarazman.hashnode.dev/komen-dan-docstring-dalam-python)
