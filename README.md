@@ -20,6 +20,11 @@
 <br />
 🚨 Blog posted in Hashnode:
 <!-- BLOG-POST-LIST:START -->
+- [Komen dan Docstring dalam Python](https://ammarazman.hashnode.dev/komen-dan-docstring-dalam-python)
+- [Penyata Bersyarat - Semua yang Anda Harus Tahu](https://ammarazman.hashnode.dev/penyata-bersyarat-semua-yang-anda-harus-tahu)
+- [5 Hakikat Dunia Pengaturcaraan](https://ammarazman.hashnode.dev/5-hakikat-dunia-pengaturcaraan)
+- [Lingkaran dalam Python 🐍](https://ammarazman.hashnode.dev/lingkaran-dalam-python)
+- [Mengapa Python 🐍 mesti diketahui pelajar aliran Sains?](https://ammarazman.hashnode.dev/mengapa-python-mesti-diketahui-pelajar-aliran-sains)
 <!-- BLOG-POST-LIST:END -->
 
 [Hashnode]: "https://ammarazman.hashnode.dev/"
