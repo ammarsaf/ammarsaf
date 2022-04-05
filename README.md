@@ -28,7 +28,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img allign="left" alt="Ammar Azman Github Stat" src="https://github-readme-stats.vercel.app/api?username=Ammar-Azman&show_icons=True&hide_border=True" />
+<img allign="left" alt="Ammar Azman Github Stat" src="https://github-readme-stats.vercel.app/api?username=Ammar-Azman&show_icons=True&hide_border=True&theme=tokyonight" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Azman&show_icons=True&hide_border=True&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [Hashnode]: "https://ammarazman.hashnode.dev/"
 [Linkedin]: https://www.linkedin.com/in/ammar-azman/
