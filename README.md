@@ -17,8 +17,7 @@
 [<img allign="left" alt="Git" width ="40px" src="svg-symbol/icons8-git.svg" />][Git]
 [<img allign="left" alt="Excel" width ="40px" src="svg-symbol/icons8-microsoft-excel.svg" />][Excel]
 
-<br />
-🚨 Blog posted in Hashnode:
+### 🚨 Blog posted in Hashnode:
 
 <!-- BLOG-POST-LIST:START -->
 - [Komen dan Docstring dalam Python](https://ammarazman.hashnode.dev/komen-dan-docstring-dalam-python)
