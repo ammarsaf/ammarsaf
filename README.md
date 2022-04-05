@@ -27,6 +27,9 @@
 - [Mengapa Python 🐍 mesti diketahui pelajar aliran Sains?](https://ammarazman.hashnode.dev/mengapa-python-mesti-diketahui-pelajar-aliran-sains)
 <!-- BLOG-POST-LIST:END -->
 
+---
+<img allign="left" alt="Ammar Azman Github Stat" src="https://github-readme-stats.vercel.app/api?username=ammarazman&show_icons=True&hide_border=True" />
+
 [Hashnode]: "https://ammarazman.hashnode.dev/"
 [Linkedin]: https://www.linkedin.com/in/ammar-azman/
 [Git]:""
