@@ -19,6 +19,7 @@
 
 <br />
 🚨 Blog posted in Hashnode:
+
 <!-- BLOG-POST-LIST:START -->
 - [Komen dan Docstring dalam Python](https://ammarazman.hashnode.dev/komen-dan-docstring-dalam-python)
 - [Penyata Bersyarat - Semua yang Anda Harus Tahu](https://ammarazman.hashnode.dev/penyata-bersyarat-semua-yang-anda-harus-tahu)
