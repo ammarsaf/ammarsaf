@@ -9,6 +9,8 @@
 [<img allign="left" alt="https://www.linkedin.com/in/ammar-azman/" width ="30px" src="svg-symbol/icons8-linkedin (1).svg" />][Linkedin]
 [<img allign="left" alt="https://ammarazman.hashnode.dev/" width ="30px" src="svg-symbol/icons8-hashnode.svg" />][Hashnode]
 
+[Hashnode]: https://ammarazman.hashnode.dev/
+[Linkedin]: https://www.linkedin.com/in/ammar-azman/
 
 ## Language and Tools:
 [<img allign="left" alt="Python" width ="40px" src="svg-symbol/icons8-python.svg" />][Python]
@@ -32,8 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Azman&show_icons=True&hide_border=True&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[Hashnode]: "https://ammarazman.hashnode.dev/"
-[Linkedin]: https://www.linkedin.com/in/ammar-azman/
+
 [Git]:""
 [Python]:""
 [MySQL]:""
