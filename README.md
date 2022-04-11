@@ -1,7 +1,7 @@
 
  ## 👋 Hi, I’m Ammar-Azman
-- 😎 I am an amateur in Data Science.
-- 😆 I love coding with Python, and currently learning everything. 
+- 🤗 I am new in Data Science.
+- 😆 But, love coding with Python, and currently learning everything. 
 - 💞️ If there is any chance, I’m looking to collaborate with you.
 - 📫 You can reach me at: - muhammarsafuan@gmail.com
 
