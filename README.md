@@ -22,11 +22,11 @@
 ### 🚨 Blog posted on Hashnode:
 
 <!-- BLOG-POST-LIST:START -->
-- [PEP8: Amalan Penulisan dalam Python](https://ammarazman.hashnode.dev/pep8-amalan-penulisan-dalam-python)
 - [Komen dan Docstring dalam Python](https://ammarazman.hashnode.dev/komen-dan-docstring-dalam-python)
 - [Penyata Bersyarat - Semua yang Anda Harus Tahu](https://ammarazman.hashnode.dev/penyata-bersyarat-semua-yang-anda-harus-tahu)
 - [5 Hakikat Dunia Pengaturcaraan](https://ammarazman.hashnode.dev/5-hakikat-dunia-pengaturcaraan)
 - [Lingkaran dalam Python 🐍](https://ammarazman.hashnode.dev/lingkaran-dalam-python)
+- [Mengapa Python 🐍 mesti diketahui pelajar aliran Sains?](https://ammarazman.hashnode.dev/mengapa-python-mesti-diketahui-pelajar-aliran-sains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
