@@ -22,11 +22,11 @@
 ### 🚨 Blog posted on Hashnode:
 
 <!-- BLOG-POST-LIST:START -->
-- [PEP8: Amalan Penulisan dalam Python](https://pythondalammelayu.com/pep8-amalan-penulisan-dalam-python)
-- [Komen dan Docstring dalam Python](https://pythondalammelayu.com/komen-dan-docstring-dalam-python)
-- [Penyata Bersyarat - Semua yang Anda Harus Tahu](https://pythondalammelayu.com/penyata-bersyarat-semua-yang-anda-harus-tahu)
-- [5 Hakikat Dunia Pengaturcaraan](https://pythondalammelayu.com/5-hakikat-dunia-pengaturcaraan)
-- [Lingkaran dalam Python 🐍](https://pythondalammelayu.com/lingkaran-dalam-python)
+- [PEP8: Amalan Penulisan dalam Python](https://ammarazman.hashnode.dev/pep8-amalan-penulisan-dalam-python)
+- [Komen dan Docstring dalam Python](https://ammarazman.hashnode.dev/komen-dan-docstring-dalam-python)
+- [Penyata Bersyarat - Semua yang Anda Harus Tahu](https://ammarazman.hashnode.dev/penyata-bersyarat-semua-yang-anda-harus-tahu)
+- [5 Hakikat Dunia Pengaturcaraan](https://ammarazman.hashnode.dev/5-hakikat-dunia-pengaturcaraan)
+- [Lingkaran dalam Python 🐍](https://ammarazman.hashnode.dev/lingkaran-dalam-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
