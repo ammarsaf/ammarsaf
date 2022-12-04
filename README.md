@@ -23,11 +23,11 @@
 ### 🚨 Blog posted on Hashnode:
 
 <!-- BLOG-POST-LIST:START -->
+- [Perwarisan, Pengkapsulan dan Polimorfism dalam OOP: Sebuah Pendekatan](https://ammarazman.hashnode.dev/perwarisan-pengkapsulan-dan-polimorfism-dalam-oop-sebuah-pendekatan)
 - [Persekitaran Maya dalam Python](https://ammarazman.hashnode.dev/persekitaran-maya-dalam-python)
 - [Kecerdasan Buatan: Batu Loncatan Kemajuan](https://ammarazman.hashnode.dev/kecerdasan-buatan-batu-loncatan-kemajuan)
 - [PEP8: Amalan Penulisan dalam Python](https://ammarazman.hashnode.dev/pep8-amalan-penulisan-dalam-python)
 - [Komen dan Docstring dalam Python](https://ammarazman.hashnode.dev/komen-dan-docstring-dalam-python)
-- [Penyata Bersyarat - Semua yang Anda Harus Tahu](https://ammarazman.hashnode.dev/penyata-bersyarat-semua-yang-anda-harus-tahu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
