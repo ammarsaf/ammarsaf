@@ -1,10 +1,9 @@
 
  ## 👋 Hi, I’m Ammar-Azman
-- 🤗 I am new in Data Science.
-- 😆 I do code in Python. 
+- 💻 I am a data scientist.
+- 🐍 Code in Python most of the time.
 - 🤖 Interested in machine learning.
-- 💞️ If there is any chance, I’m looking to collaborate with you.
-- 📫 You can reach me at: - muhammarsafuan@gmail.com
+- 📫 Reach me at: - muhammarsafuan@gmail.com
 
 ## Connect with me:
 [<img allign="left" alt="https://www.linkedin.com/in/ammar-azman/" width ="30px" src="svg-symbol/icons8-linkedin (1).svg" />][Linkedin]
