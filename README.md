@@ -30,6 +30,12 @@
 - [Komen dan Docstring dalam Python](https://ammarazman.hashnode.dev/komen-dan-docstring-dalam-python)
 <!-- BLOG-POST-LIST:END -->
 
+### Good article found around the internet 
+-  https://www.ethanrosenthal.com/2023/01/10/data-scientists-alone/
+-  https://applyingml.com/
+-  https://vickiboykis.com/2021/08/05/the-local-minima-of-suckiness/
+-  http://karpathy.github.io/
+
 ---
 <img allign="left" alt="Ammar Azman Github Stat" src="https://github-readme-stats.vercel.app/api?username=Ammar-Azman&show_icons=True&hide_border=True&theme=tokyonight" />
 
