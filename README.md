@@ -1,26 +1,34 @@
 
- ## 👋 Hi, I’m Ammar-Azman
+ # 👋 Hi, I’m Ammar-Azman
 - 💻 I am a data scientist.
 - 🐍 Code in Python most of the time.
-- 🤖 Interested in machine learning.
+- 🤖 Interested in machine learning development.
 - 📫 Reach me at: - muhammarsafuan@gmail.com
 
-## Connect with me:
+## Connect with me
 [<img allign="left" alt="https://www.linkedin.com/in/ammar-azman/" width ="30px" src="svg-symbol/icons8-linkedin (1).svg" />][Linkedin]
 [<img allign="left" alt="https://ammarazman.hashnode.dev/" width ="30px" src="svg-symbol/icons8-hashnode.svg" />][Hashnode]
 
 [Hashnode]: https://ammarazman.hashnode.dev/
 [Linkedin]: https://www.linkedin.com/in/ammar-azman/
 
-## Languages and Tools:
-[<img allign="left" alt="Python" width ="40px" src="svg-symbol/icons8-python.svg" />][Python]
-[<img allign="left" alt="MySQL" width ="40px" src="svg-symbol/icons8-mysql-logo (1).svg" />][MySQL]
-[<img allign="left" alt="Tableau" width ="40px" src="svg-symbol/icons8-tableau-software.svg" />][Tableau]
-[<img allign="left" alt="Git" width ="40px" src="svg-symbol/icons8-git.svg" />][Git]
-[<img allign="left" alt="Excel" width ="40px" src="svg-symbol/icons8-microsoft-excel.svg" />][Excel]
+## Languages and Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-### 🚨 Blog posted on Hashnode:
+## ML framework
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+## OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## Article
+
+### Hashnode
 <!-- BLOG-POST-LIST:START -->
 - [Perwarisan, Pengkapsulan dan Polimorfism dalam OOP: Sebuah Pendekatan](https://ammarazman.hashnode.dev/perwarisan-pengkapsulan-dan-polimorfism-dalam-oop)
 - [Persekitaran Maya dalam Python](https://ammarazman.hashnode.dev/persekitaran-maya-dalam-python)
