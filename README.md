@@ -30,11 +30,11 @@
 
 ### Hashnode
 <!-- BLOG-POST-LIST:START -->
-- [Setup Github Repo properly for Collaboration Projects](https://ammarazman.hashnode.dev/setup-github-repo-properly-for-collaboration-projects)
 - [Pull Request: Bagaimana Merge berlaku di Github](https://ammarazman.hashnode.dev/pull-request-bagaimana-merge-berlaku-di-github)
 - [Perwarisan, Pengkapsulan dan Polimorfism dalam OOP: Sebuah Pendekatan](https://ammarazman.hashnode.dev/perwarisan-pengkapsulan-dan-polimorfism-dalam-oop)
 - [Persekitaran Maya dalam Python](https://ammarazman.hashnode.dev/persekitaran-maya-dalam-python)
 - [Kecerdasan Buatan: Batu Loncatan Kemajuan](https://ammarazman.hashnode.dev/kecerdasan-buatan-batu-loncatan-kemajuan)
+- [PEP8: Amalan Penulisan dalam Python](https://ammarazman.hashnode.dev/pep8-amalan-penulisan-dalam-python)
 <!-- BLOG-POST-LIST:END -->
 
 ### Good article found around the internet 
