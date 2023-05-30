@@ -28,7 +28,7 @@
 
 ## Article
 
-### Hashnode
+### Python dalam Melayu Blog (Hashnode)
 <!-- BLOG-POST-LIST:START -->
 - [Setup Github Repo properly for Collaboration Projects](https://ammarazman.hashnode.dev/setup-github-repo-properly-for-collaboration-projects)
 - [Pull Request: Bagaimana Merge berlaku di Github](https://ammarazman.hashnode.dev/pull-request-bagaimana-merge-berlaku-di-github)
