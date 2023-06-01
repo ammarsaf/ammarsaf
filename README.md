@@ -27,7 +27,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Gist 
-* [Ammar-Azman-gist](https://img.shields.io/badge/)
+* [Ammar-Azman-gist](https://gist.github.com/Ammar-Azman)
 
 ## Article
 
