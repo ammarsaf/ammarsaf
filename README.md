@@ -55,12 +55,3 @@
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64acfd9614678473bb612dd3?variant=dark" alt="roadmap.sh"/></a>
 
-
-
-
-
-[Git]:""
-[Python]:""
-[MySQL]:""
-[Tableau]:""
-[Excel]:""
