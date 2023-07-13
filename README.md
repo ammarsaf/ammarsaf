@@ -53,5 +53,4 @@
 
 <img allign="left" alt="Ammar Azman Github Stat" src="https://github-readme-stats.vercel.app/api?username=Ammar-Azman&show_icons=True&hide_border=True&theme=tokyonight" /> 
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64acfd9614678473bb612dd3?variant=dark" alt="roadmap.sh"/></a>
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64acfd9614678473bb612dd3?variant=dark&roadmaps=python%2Cdevops%2Cdocker)](https://roadmap.sh)
