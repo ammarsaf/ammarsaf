@@ -42,10 +42,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Good article found around the internet 
--  https://www.ethanrosenthal.com/2023/01/10/data-scientists-alone/
--  https://applyingml.com/
--  https://vickiboykis.com/2021/08/05/the-local-minima-of-suckiness/
--  http://karpathy.github.io/
+-  [applying-ml](https://applyingml.com/)
+-  [data-scientist-work-alone-and-thats-bad](https://www.ethanrosenthal.com/2023/01/10/data-scientists-alone/)
+-  [local-minima-suckiness](https://vickiboykis.com/2021/08/05/the-local-minima-of-suckiness/)
+-  [Andrej-Karpathy-blog](http://karpathy.github.io/)
 
 ---
 ## Roadmap and Metrics
