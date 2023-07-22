@@ -2,7 +2,6 @@
  # 👋 Hi, I’m Ammar-Azman
 - 💻 I am a data scientist.
 - 🐍 Working with Python most of the time.
-- 🦀 Currently learning Rust!
 - 🤖 Interested in machine learning development.
 - 📫 Reach me at: - muhammarsafuan@gmail.com
 
