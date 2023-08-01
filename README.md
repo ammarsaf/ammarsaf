@@ -31,7 +31,7 @@
 
 ## Article
 
-### Python dalam Melayu Blog (Hashnode)
+### My Blog: Python dalam Melayu 
 <!-- BLOG-POST-LIST:START -->
 - [Kod di Khalayak: Malu Tanya Sesat Jalan](https://ammarazman.hashnode.dev/kod-di-khalayak-malu-tanya-sesat-jalan)
 - [Setup Github Repo properly for Collaboration Projects](https://ammarazman.hashnode.dev/setup-github-repo-properly-for-collaboration-projects)
@@ -40,7 +40,7 @@
 - [Persekitaran Maya dalam Python](https://ammarazman.hashnode.dev/persekitaran-maya-dalam-python)
 <!-- BLOG-POST-LIST:END -->
 
-### Good article found around the internet 
+### Good read
 -  [applying-ml](https://applyingml.com/)
 -  [data-scientist-work-alone-and-thats-bad](https://www.ethanrosenthal.com/2023/01/10/data-scientists-alone/)
 -  [local-minima-suckiness](https://vickiboykis.com/2021/08/05/the-local-minima-of-suckiness/)
