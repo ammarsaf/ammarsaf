@@ -1,6 +1,6 @@
 
  # 👋 Hi, I’m Ammar-Azman
-- 💻 I am a data scientist.
+- 💻 I am a (jr) data scientist.
 - 🐍 Working with Python most of the time.
 - 🤖 Interested in machine learning development.
 - 📫 Reach me at: - muhammarsafuan@gmail.com
