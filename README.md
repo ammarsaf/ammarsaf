@@ -1,37 +1,28 @@
 
  # 👋 Hi, I’m Ammar-Azman
-- 💻 Currently a (jr) data scientist.
-- 🐍 Working with Python most of the time.
-- 🤖 Interested in machine learning and application development.
-- 📫 Reach me at: - muhammarsafuan@gmail.com
+- 💻 I am junior data scientist.
+- 🐍 Working with Python and machine learning, involving in broad and various project in data science.
+- 🚀 Aspiring to become full stack by involving with end to end projects application and development.
+- 📫 Reach me at: - muhammarsafuan@gmail.com, [linkedin-profile](https://www.linkedin.com/in/ammar-azman/)
+- ✍ [My-Gist-Writing-Collection](https://gist.github.com/Ammar-Azman)
 
-## Connect with me
-[<img allign="left" alt="https://www.linkedin.com/in/ammar-azman/" width ="30px" src="svg-symbol/icons8-linkedin (1).svg" />][Linkedin]
-[<img allign="left" alt="https://ammarazman.hashnode.dev/" width ="30px" src="svg-symbol/icons8-hashnode.svg" />][Hashnode]
+## Projects
+- Corpus dataset contribution towards [Malaysian-Dataset-Repo](https://github.com/mesolitica/malaysian-dataset/tree/master). See [dataset](https://huggingface.co/Ammar-Azman)
+- [Xtractor](https://github.com/Ammar-Azman/xtractor) - Wrapped Multithreading architecture on BeautifulSoup and Request for fastest web-scraping. 
 
-[Hashnode]: https://ammarazman.hashnode.dev/
-[Linkedin]: https://www.linkedin.com/in/ammar-azman/
-
-## Languages and Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-## ML framework
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+## Languages, Tools, Framework
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+* ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+* ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Gist 
-* [Ammar-Azman-gist](https://gist.github.com/Ammar-Azman)
-
-## Article
-
-### My Blog: Python dalam Melayu 
+### Read my Blog: Python dalam Melayu 
 <!-- BLOG-POST-LIST:START -->
 - [Kod di Khalayak: Malu Tanya Sesat Jalan](https://ammarazman.hashnode.dev/kod-di-khalayak-malu-tanya-sesat-jalan)
 - [Setup Github Repo properly for Collaboration Projects](https://ammarazman.hashnode.dev/setup-github-repo-properly-for-collaboration-projects)
