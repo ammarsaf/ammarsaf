@@ -24,11 +24,11 @@
 
 ### Read my Blog: Python dalam Melayu 
 <!-- BLOG-POST-LIST:START -->
+- [5 Cara Fikir Pengaturcara](https://ammarazman.hashnode.dev/5-cara-fikir-pengaturcara)
 - [Kod di Khalayak: Malu Tanya Sesat Jalan](https://ammarazman.hashnode.dev/kod-di-khalayak-malu-tanya-sesat-jalan)
 - [Setup Github Repo properly for Collaboration Projects](https://ammarazman.hashnode.dev/setup-github-repo-properly-for-collaboration-projects)
 - [Pull Request: Bagaimana Merge berlaku di Github](https://ammarazman.hashnode.dev/pull-request-bagaimana-merge-berlaku-di-github)
 - [Perwarisan, Pengkapsulan dan Polimorfism dalam OOP: Sebuah Pendekatan](https://ammarazman.hashnode.dev/perwarisan-pengkapsulan-dan-polimorfism-dalam-oop)
-- [Persekitaran Maya dalam Python](https://ammarazman.hashnode.dev/persekitaran-maya-dalam-python)
 <!-- BLOG-POST-LIST:END -->
 
 ### Good read
