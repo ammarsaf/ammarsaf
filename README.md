@@ -8,7 +8,8 @@
 
 ## Projects
 - Corpus dataset contribution towards [Malaysian-Dataset-Repo](https://github.com/mesolitica/malaysian-dataset/tree/master). See [dataset](https://huggingface.co/Ammar-Azman)
-- [Xtractor](https://github.com/Ammar-Azman/xtractor) - Wrapped Multithreading architecture on BeautifulSoup and Request for fastest web-scraping. 
+- [Xtractor](https://github.com/Ammar-Azman/xtractor) - Wrapped Multithreading architecture on BeautifulSoup and Request for fastest web-scraping.
+- [chat-gpt-pdf](https://github.com/Ammar-Azman/chat-gpt-pdf) - Streamlit apps to reason any PDF files with Large Language Model!
 
 ## Languages, Tools, Framework
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
