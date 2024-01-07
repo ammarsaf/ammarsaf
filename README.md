@@ -3,7 +3,7 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.gif" alt="😶" width="15" height="15"> I am junior data scientist.
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="15" height="15"> Working with Python and machine learning, involving in broad and various project in data science.
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="15" height="15"> Aspiring to become full stack by involving with end to end projects application and development.
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="15" height="15"> Reach me at: - muhammarsafuan@gmail.com, [linkedin-profile](https://www.linkedin.com/in/ammar-azman/)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="15" height="15"> Reach me at: - muhammarsafuan@gmail.com, [Linkedin](https://www.linkedin.com/in/ammar-azman/)
 - ✍ [My-Gist-Writing-Collection](https://gist.github.com/Ammar-Azman)
 
 ---
