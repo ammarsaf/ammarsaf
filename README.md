@@ -1,17 +1,19 @@
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"> Hi, I’m Ammar-Azman 
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.gif" alt="😶" width="15" height="15"> I am junior data scientist.
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="15" height="15"> Working with Python and machine learning, involving in broad and various project in data science.
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="15" height="15"> Aspiring to become full stack by involving with end to end projects application and development.
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="15" height="15"> Reach me at: - muhammarsafuan@gmail.com, [Linkedin](https://www.linkedin.com/in/ammar-azman/)
-- ✍ [My-Gist-Writing-Collection](https://gist.github.com/Ammar-Azman)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="15" height="15"> Working with Python and machine learning.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="15" height="15"> Current interest - Computer Vision and NLP. 
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="15" height="15"> Aspiring to become a machine learning engineer.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="15" height="15"> Reach me on [Linkedin](https://www.linkedin.com/in/ammar-azman/)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="15" height="15"> Some of my [gist-notes](https://gist.github.com/Ammar-Azman)
 
 ---
 
 ## Projects
-- Corpus dataset contribution towards [Malaysian-Dataset-Repo](https://github.com/mesolitica/malaysian-dataset/tree/master). See [dataset](https://huggingface.co/Ammar-Azman)
-- [Xtractor](https://github.com/Ammar-Azman/xtractor) - Wrapped Multithreading architecture on BeautifulSoup and Request for fastest web-scraping.
-- [chat-gpt-pdf](https://github.com/Ammar-Azman/chat-gpt-pdf) - Streamlit apps to reason any PDF files with Large Language Model!
+- Text [dataset](https://huggingface.co/Ammar-Azman) scraping contribution towards [Malaysian-Dataset-Repo](https://github.com/mesolitica/malaysian-dataset/tree/master).
+- Wrapped Multithreading [module](https://github.com/Ammar-Azman/xtractor) with BeautifulSoup and Request for faster web-scraping.
+- [Chatbot](https://github.com/Ammar-Azman/chat-gpt-pdf) that talk about your PDF files!
+
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20"> My Blog: Python dalam Melayu 
 <!-- BLOG-POST-LIST:START -->
