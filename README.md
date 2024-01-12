@@ -13,6 +13,7 @@
 - Text [dataset](https://huggingface.co/Ammar-Azman) scraping contribution towards [Malaysian-Dataset-Repo](https://github.com/mesolitica/malaysian-dataset/tree/master).
 - Wrapped Multithreading [module](https://github.com/Ammar-Azman/xtractor) with BeautifulSoup and Request for faster web-scraping.
 - [Chatbot](https://github.com/Ammar-Azman/chat-gpt-pdf) that talk about your PDF files!
+- Just started as a Langchain documentation contributor. >_< [1st merged PR](https://github.com/langchain-ai/langchain/pull/15569)
 
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20"> My Blog: Python dalam Melayu 
