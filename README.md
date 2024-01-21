@@ -12,6 +12,7 @@
 ---
 
 ## Projects
+- *In progress*: [Brain Tumor Image Classification](https://www.kaggle.com/code/ammarazman98/brain-tumor-classification-tensorflow#Modelling)
 - Text [dataset](https://huggingface.co/Ammar-Azman) scraping contribution towards [Malaysian-Dataset-Repo](https://github.com/mesolitica/malaysian-dataset/tree/master).
 - Wrapped Multithreading [module](https://github.com/Ammar-Azman/xtractor) with BeautifulSoup and Request for faster web-scraping.
 - [Chatbot](https://github.com/Ammar-Azman/chat-gpt-pdf) that talk about your PDF files!
