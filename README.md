@@ -22,11 +22,11 @@
 
 ### My Blog: Python dalam Melayu <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20">
 <!-- BLOG-POST-LIST:START -->
+- [Ajar Diri Anda Pengaturcaraan selama 10 Tahun &lpar;Terjemahan&rpar;](https://ammarazman.hashnode.dev/ajar-diri-anda-pengaturcaraan-selama-10-tahun-terjemahan)
 - [Implementasi REST API dengan FastAPI, Lambda dan API Gateway](https://ammarazman.hashnode.dev/implementasi-rest-api-dengan-fastapi-lambda-dan-api-gateway)
 - [5 Cara Fikir Pengaturcara](https://ammarazman.hashnode.dev/5-cara-fikir-pengaturcara)
 - [Kod di Khalayak: Malu Tanya Sesat Jalan](https://ammarazman.hashnode.dev/kod-di-khalayak-malu-tanya-sesat-jalan)
 - [Setup Github Repo properly for Collaboration Projects](https://ammarazman.hashnode.dev/setup-github-repo-properly-for-collaboration-projects)
-- [Pull Request: Bagaimana Merge berlaku di Github](https://ammarazman.hashnode.dev/pull-request-bagaimana-merge-berlaku-di-github)
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Skills
