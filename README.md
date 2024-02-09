@@ -3,8 +3,10 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="15" height="15"> Hello there, Ammar Azman here.<br>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.gif" alt="😶" width="15" height="15">   I am a data scientist.<br> 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="15" height="15">   Proficient with Python and machine learning.<br> 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="15" height="15">   Presently captivated by Computer Vision and NLP. <br> 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="15" height="15">   Presently captivated by Computer Vision and Natural Language Processing. <br> 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="15" height="15">   Aspired becoming a machine learning engineer.<br> 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="15" height="15"> [Gist-notes](https://gist.github.com/Ammar-Azman) 
+
 ### Let's connect! <br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="90" height="20">](https://www.linkedin.com/in/ammar-azman/)<br> 
 
@@ -12,15 +14,19 @@
 ---
 
 ## Projects
+
+### Personal
 - *In progress*: [Brain Tumor Image Classification](https://www.kaggle.com/code/ammarazman98/brain-tumor-classification-tensorflow#Modelling)
-- Text [dataset](https://huggingface.co/Ammar-Azman) scraping contribution towards [Malaysian-Dataset-Repo](https://github.com/mesolitica/malaysian-dataset/tree/master).
-- Wrapped Multithreading [module](https://github.com/Ammar-Azman/xtractor) with BeautifulSoup and Request for faster web-scraping.
-- [Chatbot](https://github.com/Ammar-Azman/chat-gpt-pdf) that talk about your PDF files!
-- Just started as a Langchain documentation contributor. >_< [1st merged PR](https://github.com/langchain-ai/langchain/pull/15569)
-- Some of my [gist-notes](https://gist.github.com/Ammar-Azman) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="15" height="15"><br> 
+- Web-scraping with Multithreading [module](https://github.com/Ammar-Azman/xtractor).
+- [LLM-chatbot](https://github.com/Ammar-Azman/chat-gpt-pdf) that talk about your PDF files!
+- [End-to-end RAG-LLM with PGVector](https://github.com/Ammar-Azman/llm_rag_pgvector.git). Easy setup with Docker.
+
+### Open Source
+- Text dataset [contributor](https://huggingface.co/Ammar-Azman) for [Malaysian-Dataset](https://github.com/mesolitica/malaysian-dataset/tree/master).
+- Langchain documentation [contributor](https://github.com/langchain-ai/langchain/pull/15569)
 
 
-### My Blog: Python dalam Melayu <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20">
+### Blogging
 <!-- BLOG-POST-LIST:START -->
 - [Ajar Diri Anda Pengaturcaraan selama 10 Tahun](https://ammarazman.hashnode.dev/ajar-diri-anda-pengaturcaraan-selama-10-tahun)
 - [Implementasi REST API dengan FastAPI, Lambda dan API Gateway](https://ammarazman.hashnode.dev/implementasi-rest-api-dengan-fastapi-lambda-dan-api-gateway)
