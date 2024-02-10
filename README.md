@@ -16,7 +16,7 @@
 ## Projects
 
 ### Personal
-- *In progress*: [Brain Tumor Image Classification](https://www.kaggle.com/code/ammarazman98/brain-tumor-classification-tensorflow#Modelling)
+- *In progress*: [Brain Tumor Image Classification](https://www.kaggle.com/code/ammarazman98/brain-tumor-classification-tensorflow)
 - Web-scraping with Multithreading [module](https://github.com/Ammar-Azman/xtractor).
 - [LLM-chatbot](https://github.com/Ammar-Azman/chat-gpt-pdf) that talk about your PDF files!
 - [End-to-end RAG-LLM with PGVector](https://github.com/Ammar-Azman/llm_rag_pgvector.git). Easy setup with Docker.
