@@ -16,13 +16,14 @@
 ## Projects
 
 ### Personal
-- *In progress*: [Brain Tumor Classification - shallow and deep learning](https://www.kaggle.com/code/ammarazman98/brain-tumor-classification-tensorflow)
-- Web-scraping with Multithreading [module](https://github.com/Ammar-Azman/xtractor).
-- [LLM-chatbot](https://github.com/Ammar-Azman/chat-gpt-pdf) that talk about your PDF files!
-- [End-to-end RAG-LLM with PGVector](https://github.com/Ammar-Azman/llm_rag_pgvector.git). Easy setup with Docker.
+- *In progress*: Brain Tumor Classification - Shallow and Deep Learning [see project](https://www.kaggle.com/code/ammarazman98/brain-tumor-classification-tensorflow)
+- User Behavior Prediction by Text Classification with Deep Learning [see project](https://github.com/Ammar-Azman/behavior_prediction_jobads_text.git)
+- LLM-chatbot App - talk with your PDF files [see project](https://github.com/Ammar-Azman/chat-gpt-pdf)
+- End-to-End RAG-LLM with vector database (PGVector) container [see project](https://github.com/Ammar-Azman/llm_rag_pgvector.git)
+- Multithreading Wrapper Module for web-scraping [see module](https://github.com/Ammar-Azman/xtractor)
 
 ### Open Source
-- Text dataset [contributor](https://huggingface.co/Ammar-Azman) for [Malaysian-Dataset](https://github.com/mesolitica/malaysian-dataset/tree/master).
+- Text dataset [contributor](https://huggingface.co/Ammar-Azman) for [Malaysia-AI](https://github.com/mesolitica/malaysian-dataset/tree/master).
 - Langchain documentation [contributor](https://github.com/langchain-ai/langchain/pull/15569)
 
 
