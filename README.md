@@ -34,6 +34,10 @@
 - [5 Cara Fikir Pengaturcara](https://ammarazman.hashnode.dev/5-cara-fikir-pengaturcara)
 - [Kod di Khalayak: Malu Tanya Sesat Jalan](https://ammarazman.hashnode.dev/kod-di-khalayak-malu-tanya-sesat-jalan)
 - [Setup Github Repo properly for Collaboration Projects](https://ammarazman.hashnode.dev/setup-github-repo-properly-for-collaboration-projects)
+
+### Interest
+- Currenly learning Rust
+- Doing some Kaggle
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Skills and Techs
