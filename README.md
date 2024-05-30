@@ -29,11 +29,11 @@
 
 ### Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Just start](https://ammarazman.hashnode.dev/just-start)
 - [If you feel overwhelmed](https://ammarazman.hashnode.dev/if-you-feel-overwhelmed)
 - [Ajar Diri Anda Pengaturcaraan selama 10 Tahun](https://ammarazman.hashnode.dev/ajar-diri-anda-pengaturcaraan-selama-10-tahun)
 - [Implementasi REST API dengan FastAPI, Lambda dan API Gateway](https://ammarazman.hashnode.dev/implementasi-rest-api-dengan-fastapi-lambda-dan-api-gateway)
 - [5 Cara Fikir Pengaturcara](https://ammarazman.hashnode.dev/5-cara-fikir-pengaturcara)
-- [Kod di Khalayak: Malu Tanya Sesat Jalan](https://ammarazman.hashnode.dev/kod-di-khalayak-malu-tanya-sesat-jalan)
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Skills and Techs
