@@ -29,11 +29,11 @@
 
 ### Blogging
 <!-- BLOG-POST-LIST:START -->
-- [Some Rust learning experience &lpar;pt. 1&rpar;](https://ammarazman.hashnode.dev/some-rust-learning-experience-pt-1)
-- [Just start](https://ammarazman.hashnode.dev/just-start)
-- [If you feel overwhelmed](https://ammarazman.hashnode.dev/if-you-feel-overwhelmed)
-- [Ajar Diri Anda Pengaturcaraan selama 10 Tahun](https://ammarazman.hashnode.dev/ajar-diri-anda-pengaturcaraan-selama-10-tahun)
-- [Implementasi REST API dengan FastAPI, Lambda dan API Gateway](https://ammarazman.hashnode.dev/implementasi-rest-api-dengan-fastapi-lambda-dan-api-gateway)
+- [Some Rust learning experience &lpar;pt. 1&rpar;](https://ammarrite.hashnode.dev/some-rust-learning-experience-pt-1)
+- [Just start](https://ammarrite.hashnode.dev/just-start)
+- [If you feel overwhelmed](https://ammarrite.hashnode.dev/if-you-feel-overwhelmed)
+- [Ajar Diri Anda Pengaturcaraan selama 10 Tahun](https://ammarrite.hashnode.dev/ajar-diri-anda-pengaturcaraan-selama-10-tahun)
+- [Implementasi REST API dengan FastAPI, Lambda dan API Gateway](https://ammarrite.hashnode.dev/implementasi-rest-api-dengan-fastapi-lambda-dan-api-gateway)
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Skills and Techs
