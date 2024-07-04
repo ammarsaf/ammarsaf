@@ -3,7 +3,6 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="15" height="15"> Hello there, Ammar Azman here.<br>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.gif" alt="😶" width="15" height="15">   I am a data scientist.<br> 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="15" height="15">   Proficient with Python and machine learning.<br> 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="15" height="15">   Presently captivated by Computer Vision and Natural Language Processing. <br> 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="15" height="15">   Aspired becoming a machine learning engineer.<br> 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="15" height="15"> [Gist-notes](https://gist.github.com/Ammar-Azman) 
 
@@ -21,6 +20,7 @@
 - LLM-chatbot App - talk with your PDF files [see](https://github.com/Ammar-Azman/chat-gpt-pdf)
 - End-to-End RAG-LLM with vector database (PGVector) container [see](https://github.com/Ammar-Azman/llm_rag_pgvector.git)
 - Multithreading Wrapper Module for web-scraping [see](https://github.com/Ammar-Azman/xtractor)
+- Learning Rust for fun [see](https://github.com/Ammar-Azman/data-science-materials/blob/main/prog_languages/rust.md)
 
 ### Open Source
 - Text dataset [contributor](https://huggingface.co/Ammar-Azman) for [Malaysia-AI](https://github.com/mesolitica/malaysian-dataset/tree/master).
