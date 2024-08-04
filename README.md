@@ -30,11 +30,11 @@
 
 ### Blogging
 <!-- BLOG-POST-LIST:START -->
+- [How to start Data Science](https://ammarrite.hashnode.dev/how-to-start-data-science)
 - [How TDD Teach us to Become a Firm Programmer](https://ammarrite.hashnode.dev/how-tdd-teach-us-to-become-a-firm-programmer)
 - [Some Rust Learning Experience &lpar;pt. 1&rpar;](https://ammarrite.hashnode.dev/some-rust-learning-experience-pt-1)
 - [Just start](https://ammarrite.hashnode.dev/just-start)
 - [If you feel overwhelmed](https://ammarrite.hashnode.dev/if-you-feel-overwhelmed)
-- [Ajar Diri Anda Pengaturcaraan selama 10 Tahun](https://ammarrite.hashnode.dev/ajar-diri-anda-pengaturcaraan-selama-10-tahun)
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Skills and Techs
