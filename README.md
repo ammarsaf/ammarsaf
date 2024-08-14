@@ -21,7 +21,10 @@
 - LLM-chatbot App - talk with your PDF files [see](https://github.com/Ammar-Azman/chat-gpt-pdf)
 - End-to-End RAG-LLM with vector database (PGVector) container [see](https://github.com/Ammar-Azman/llm_rag_pgvector.git)
 - Multithreading Wrapper Module for web-scraping [see](https://github.com/Ammar-Azman/xtractor)
+
+### Learning 
 - Learning Rust for fun [see](https://github.com/Ammar-Azman/data-science-materials/blob/main/prog_languages/rust.md)
+- Time Series - Learning Notebook [see](https://www.kaggle.com/code/ammarazman98/store-sales-forecast-learn-experiment)
 
 ### Open Source
 - Text dataset [contributor](https://huggingface.co/Ammar-Azman) for [Malaysia-AI](https://github.com/mesolitica/malaysian-dataset/tree/master).
