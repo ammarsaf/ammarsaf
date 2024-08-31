@@ -24,6 +24,7 @@
 ### Learning 
 - Learning Rust for fun [see](https://github.com/Ammar-Azman/data-science-materials/blob/main/prog_languages/rust.md)
 - Time Series - Learning Notebook [see](https://www.kaggle.com/code/ammarazman98/store-sales-forecast-learn-experiment)
+- k8s with minikube
 
 ### Open Source
 - Text dataset [contributor](https://huggingface.co/Ammar-Azman) for [Malaysia-AI](https://github.com/mesolitica/malaysian-dataset/tree/master).
