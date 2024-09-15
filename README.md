@@ -33,11 +33,11 @@
 
 ### Blogging
 <!-- BLOG-POST-LIST:START -->
+- [Why Kaggle is So OP](https://ammarrite.hashnode.dev/why-kaggle-is-so-op)
 - [How to start Data Science](https://ammarrite.hashnode.dev/how-to-start-data-science)
 - [How TDD Teach us to Become a Firm Programmer](https://ammarrite.hashnode.dev/how-tdd-teach-us-to-become-a-firm-programmer)
 - [Some Rust Learning Experience &lpar;pt. 1&rpar;](https://ammarrite.hashnode.dev/some-rust-learning-experience-pt-1)
 - [Just start](https://ammarrite.hashnode.dev/just-start)
-- [If you feel overwhelmed](https://ammarrite.hashnode.dev/if-you-feel-overwhelmed)
 <!-- BLOG-POST-LIST:END -->
 ---
 ## Tech-Skills
