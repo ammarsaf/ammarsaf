@@ -3,7 +3,7 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="15" height="15"> Hello there, Ammar here.<br>
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="15" height="15">   I do somehow Proficient with Python and machine learning.<br> 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="15" height="15">   Aspired becoming a machine learning engineer.<br> 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="15" height="15"> [Gist-notes](https://gist.github.com/Ammar-Azman) 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="15" height="15"> [Gist-notes](https://gist.github.com/ammarsaf) 
 
 ### Let's connect! <br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="90" height="20">](https://www.linkedin.com/in/ammar-azman/)<br> 
