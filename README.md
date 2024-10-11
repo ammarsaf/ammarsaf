@@ -1,7 +1,7 @@
 ## Profile
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="15" height="15"> Hello there, Ammar here.<br>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="15" height="15">   I do somehow Proficient with Python and machine learning.<br> 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="15" height="15">   I do some Python and machine learning.<br> 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="15" height="15">   Aspired becoming a machine learning engineer.<br> 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="15" height="15"> [Gist-notes](https://gist.github.com/ammarsaf) 
 
