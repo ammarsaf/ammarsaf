@@ -21,7 +21,7 @@
 - Time Series - Learning Notebook [see](https://www.kaggle.com/code/ammarazman98/store-sales-forecast-learn-experiment)
 
 ### Open Source
-- Text dataset [contributor](https://huggingface.co/Ammar-Azman) for [Malaysia-AI](https://github.com/mesolitica/malaysian-dataset/tree/master)
+- Text dataset [contributor](https://huggingface.co/ammarxix) for [Malaysia-AI](https://github.com/mesolitica/malaysian-dataset/tree/master)
 
 ### Blogging
 <!-- BLOG-POST-LIST:START -->
