@@ -17,6 +17,7 @@
 - Multithreading Wrapper Module for web-scraping [see](https://github.com/Ammar-Azman/xtractor)
 
 ### Learning 
+- Data Engineering
 - Learning Rust for fun [see](https://github.com/Ammar-Azman/data-science-materials/blob/main/prog_languages/rust.md)
 - Time Series - Learning Notebook [see](https://www.kaggle.com/code/ammarazman98/store-sales-forecast-learn-experiment)
 
