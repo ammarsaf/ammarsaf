@@ -8,7 +8,7 @@
 
 ## Projects
 
-### Personal
+### AI/ML
 - Predict Future Sales with XGBoost (Community Competition) - [see](https://www.kaggle.com/code/ammarazman98/predict-future-sales-with-xgboost)
 - Brain Tumor Classification - Analysis, Shallow and Deep Learning [see](https://www.kaggle.com/code/ammarazman98/brain-tumor-classification-tensorflow)
 - User Behavior Prediction by Text Classification with Deep Learning [see](https://github.com/Ammar-Azman/behavior_prediction_jobads_text.git)
@@ -16,15 +16,10 @@
 - End-to-End RAG-LLM with vector database (PGVector) container [see](https://github.com/Ammar-Azman/llm_rag_pgvector.git)
 - Multithreading Wrapper Module for web-scraping [see](https://github.com/Ammar-Azman/xtractor)
 
-### Learning 
-- Data Engineering
-- Learning Rust for fun [see](https://github.com/Ammar-Azman/data-science-materials/blob/main/prog_languages/rust.md)
-- Time Series - Learning Notebook [see](https://www.kaggle.com/code/ammarazman98/store-sales-forecast-learn-experiment)
-
 ### Open Source
 - Text dataset [contributor](https://huggingface.co/ammarxix) for [Malaysia-AI](https://github.com/mesolitica/malaysian-dataset/tree/master)
 
-### Blogging
+### Writing/Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Why Kaggle is So OP](https://ammarite.hashnode.dev/why-kaggle-is-so-op)
 - [How to start Data Science](https://ammarite.hashnode.dev/how-to-start-data-science)
@@ -32,6 +27,12 @@
 - [Some Rust Learning Experience &lpar;pt. 1&rpar;](https://ammarite.hashnode.dev/some-rust-learning-experience-pt-1)
 - [Just start](https://ammarite.hashnode.dev/just-start)
 <!-- BLOG-POST-LIST:END -->
+
+### Learning 
+- Data Engineering
+- Learning Rust for fun [see](https://github.com/Ammar-Azman/data-science-materials/blob/main/prog_languages/rust.md)
+- Time Series - Learning Notebook [see](https://www.kaggle.com/code/ammarazman98/store-sales-forecast-learn-experiment)
+
 ---
 ## Tech-Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white)<br>
