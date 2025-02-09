@@ -28,6 +28,10 @@
 - [Just start](https://ammarite.hashnode.dev/just-start)
 <!-- BLOG-POST-LIST:END -->
 
+### Hackathon
+- Deriv Hackathon - [repo](https://github.com/ammarsaf/deriv-hackathon)
+- AI Tinkers Hackathon - [repo](https://github.com/ammarsaf/aitinkerers-hackathon-supa-team-werecooked)
+
 ### Learning 
 - Data Engineering
 - Learning Rust for fun [see](https://github.com/Ammar-Azman/data-science-materials/blob/main/prog_languages/rust.md)
