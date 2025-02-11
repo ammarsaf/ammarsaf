@@ -10,7 +10,7 @@
 
 ### Data Engineering
 
-- RapidKL GTFS realtime Dashboard with ELT approach [repo](https://github.com/ammarsaf/rapid-tracker)
+- RapidKL GTFS realtime Dashboard with ELT approach [see](https://github.com/ammarsaf/rapid-tracker)
 
 ### AI/ML
 - Predict Future Sales with XGBoost (Community Competition) - [see](https://www.kaggle.com/code/ammarazman98/predict-future-sales-with-xgboost)
