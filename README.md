@@ -8,6 +8,10 @@
 
 ## Projects
 
+### Data Engineering
+
+- RapidKL GTFS realtime Dashboard with ELT approach [repo](https://github.com/ammarsaf/rapid-tracker)
+
 ### AI/ML
 - Predict Future Sales with XGBoost (Community Competition) - [see](https://www.kaggle.com/code/ammarazman98/predict-future-sales-with-xgboost)
 - Brain Tumor Classification - Analysis, Shallow and Deep Learning [see](https://www.kaggle.com/code/ammarazman98/brain-tumor-classification-tensorflow)
