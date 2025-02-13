@@ -2,7 +2,7 @@
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="15" height="15"> Hello there, Ammar here.<br>
 🐍  I did some Python and machine learning.<br> 
-📝 [yap-gist-notes](https://gist.github.com/ammarsaf) 
+📝 [gist](https://gist.github.com/ammarsaf) 
 
 ---
 
