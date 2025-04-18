@@ -1,24 +1,18 @@
-name: "📚 latest Blog"
-
+name: Lastest Hashnode Blog Post
 on:
-  workflow_dispatch:
   schedule:
-    - cron:  "0 * * * *" # Runs every hour, on the hour
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
-  update_blogs:
-    name: "Update With Latest Blogs"
+  update-readme-with-blog:
+    name: Update this repo's README with latest Hashnode blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          USERNAME: "rahulblg" # Hashnode Username
-          COUNT: 5 # MAX Visisble
-          STYLE: "blog-left"
-          BLOG_URL: "https://ammarite.hashnode.dev/"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "HASHNODE"
+          commit_message: "Updated readme with the latest Hashnode Blog data"
+          feed_list: "https://ammarite.hashnode.dev/rss.xml"
