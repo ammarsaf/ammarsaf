@@ -24,13 +24,13 @@
 - Text dataset [contributor](https://huggingface.co/ammarxix) for [Malaysia-AI](https://github.com/mesolitica/malaysian-dataset/tree/master)
 
 ### Writing/Blogs
-<!-- BLOG-POST-LIST:START -->
+<!-- HASHNODE:START -->
 - [Why Kaggle is So OP](https://ammarite.hashnode.dev/why-kaggle-is-so-op)
 - [How to start Data Science](https://ammarite.hashnode.dev/how-to-start-data-science)
 - [How TDD Teach us to Become a Firm Programmer](https://ammarite.hashnode.dev/how-tdd-teach-us-to-become-a-firm-programmer)
 - [Some Rust Learning Experience &lpar;pt. 1&rpar;](https://ammarite.hashnode.dev/some-rust-learning-experience-pt-1)
 - [Just start](https://ammarite.hashnode.dev/just-start)
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE:END -->
 
 ### Hackathon
 - Deriv Hackathon - [repo](https://github.com/ammarsaf/deriv-hackathon)
