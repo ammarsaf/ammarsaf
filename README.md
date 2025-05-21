@@ -8,6 +8,10 @@
 
 ## Projects
 
+### Web (current)
+
+- Static website powered by AI Analysis - [mawaddah](mawaddah.mmarsaf.xyz)
+
 ### Data Engineering
 
 - RapidKL GTFS realtime Dashboard with ELT approach [see](https://github.com/ammarsaf/rapid-tracker)
@@ -35,6 +39,7 @@
 ### Hackathon
 - Deriv Hackathon - [repo](https://github.com/ammarsaf/deriv-hackathon)
 - AI Tinkers Hackathon - [repo](https://github.com/ammarsaf/aitinkerers-hackathon-supa-team-werecooked)
+- Alibaba Hackathon - [repo](https://github.com/ammarsaf/alibaba_llm)
 
 ### Learning 
 - Data Engineering
