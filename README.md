@@ -10,7 +10,7 @@
 
 ### Web (current)
 
-- Static website powered by AI Analysis - [mawaddah](mawaddah.mmarsaf.xyz)
+- Static website powered by AI Analysis - [mawaddah](https://mawaddah.mmarsaf.xyz)
 
 ### Data Engineering
 
