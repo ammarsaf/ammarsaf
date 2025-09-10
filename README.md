@@ -1,18 +1,14 @@
 ## Profile
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="15" height="15"> Hello there, Ammar here.<br>
-🐍  I did some Python and machine learning.<br> 
-📝 [gist](https://gist.github.com/ammarsaf) 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="15" height="15"> Hello there, Ammar here. I did some data stuffs.<br> 
+
+[gist](https://gist.github.com/ammarsaf) 
 
 ---
 
 ## Projects
 
-### Web (current)
-
-- Static website powered by AI Analysis - [mawaddah](https://mawaddah.mmarsaf.xyz)
-
-### Data Engineering
+### DE
 
 - RapidKL GTFS realtime Dashboard with ELT approach [see](https://github.com/ammarsaf/rapid-tracker)
 
@@ -27,7 +23,13 @@
 ### Open Source
 - Text dataset [contributor](https://huggingface.co/ammarxix) for [Malaysia-AI](https://github.com/mesolitica/malaysian-dataset/tree/master)
 
-### Writing/Blogs
+### Web
+
+- Static website powered by AI Analysis - [mawaddah](https://mawaddah.mmarsaf.xyz)
+
+
+
+### Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Why Kaggle is So OP](https://ammarite.hashnode.dev/why-kaggle-is-so-op)
 - [How to start Data Science](https://ammarite.hashnode.dev/how-to-start-data-science)
@@ -36,10 +38,10 @@
 - [Just start](https://ammarite.hashnode.dev/just-start)
 <!-- BLOG-POST-LIST:END -->
 
-### Hackathon
-- Deriv Hackathon - [repo](https://github.com/ammarsaf/deriv-hackathon)
-- AI Tinkers Hackathon - [repo](https://github.com/ammarsaf/aitinkerers-hackathon-supa-team-werecooked)
-- Alibaba Hackathon - [repo](https://github.com/ammarsaf/alibaba_llm)
+### Hacks
+- [Deriv](https://github.com/ammarsaf/deriv-hackathon)
+- [AI Tinkers](https://github.com/ammarsaf/aitinkerers-hackathon-supa-team-werecooked)
+- [Alibaba](https://github.com/ammarsaf/alibaba_llm)
 
 ### Learning 
 - Data Engineering
